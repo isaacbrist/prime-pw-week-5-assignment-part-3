@@ -15,3 +15,6 @@ console.log('I just got a new album:', addToCollection('Brightside', 'The Lumine
 console.log('I just got a new album:', addToCollection('Sigh No More', 'Mumford and Sons', 2009));
 console.log('I just got a new album:', addToCollection('My head is and Animal', 'Of Monsters and Men', 2011));
 console.log('I just got a new album:', addToCollection('Special Reserve', 'Gaelic Storm', 2003));
+
+//testing my 'collection' array
+console.log('Here is my musical collecction!', collection);
